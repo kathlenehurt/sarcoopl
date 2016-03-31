@@ -55,7 +55,6 @@ int collatz_eval (int i, int j) {
     return ans;
     }
 
-
 // -------------
 // collatz_print
 // -------------
